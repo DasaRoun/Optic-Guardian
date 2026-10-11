@@ -1,0 +1,23 @@
+{
+  "name": "위해개소 현장 관제 시스템",
+  "short_name": "위해개소",
+  "description": "배전선로 인접공사·지장수목 및 광선로 위해개소 실시간 통합 관제 시스템",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#1e293b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
